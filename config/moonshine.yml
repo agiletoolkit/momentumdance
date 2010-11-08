@@ -4,9 +4,9 @@
 :group: rails
 :ssl:
 :self_signed: true
-:deploy_to: /srv/momentum
+:deploy_to: /srv/momentumdance
 :domain: momentum.agiletoolkit.com
-:repository: git@github.com:agiletoolkit/agile_dc.git
+:repository: git@github.com:agiletoolkit/momentumdance.git
 :shared_children:
 - system
 - log
