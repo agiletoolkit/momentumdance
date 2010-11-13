@@ -5,7 +5,7 @@
 :ssl:
 :self_signed: true
 :deploy_to: /srv/momentumdance
-:domain: momentumdancetheatre.com
+:domain: rails.momentumdancetheatre.com
 :repository: git@github.com:agiletoolkit/momentumdance.git
 :shared_children:
 - system
